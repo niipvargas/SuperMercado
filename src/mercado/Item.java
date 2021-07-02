@@ -1,7 +1,6 @@
 package mercado;
-
-
 public class Item {
+   
     private Produto produto;
     private int qdt_comprado;
 
@@ -29,7 +28,7 @@ public class Item {
 
     public void setQdt_comprado(int qdt_comprado) {
         this.qdt_comprado = qdt_comprado;
+        
     }
     
-    
-}
+            }
